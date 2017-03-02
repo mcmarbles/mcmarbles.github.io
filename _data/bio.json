@@ -6,7 +6,7 @@
     "email": "andrew@unnecessary.io",
     "phone": "925-207-1969",
     "website": "https://unnecessary.io",
-    "summary": "",
+    "summary": "*Ops for the things that matter.",
     "location": {
       "address": "",
       "postalCode": "94610",
@@ -124,7 +124,7 @@
       "highlights": [
         "Primary JIRA adminstrator",
         "Mac and Windows security enforcement and patch management",
-        "Systems administration for GSuite, VMWare, AD, "
+        "Systems administration for GSuite, VMWare, Active Directory"
       ]
     }
   ]
