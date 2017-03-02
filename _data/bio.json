@@ -2,7 +2,7 @@
   "basics": {
     "name": "Andrew Rose",
     "label": "Person",
-    "picture": "https://unnecessary.io/template/images/andrew.jpg",
+    "picture": "https://unnecessary.io/images/andrew.jpg",
     "email": "andrew@unnecessary.io",
     "phone": "925-207-1969",
     "website": "https://unnecessary.io",
@@ -45,9 +45,10 @@
       "name": "12-factor app design",
     },
     {
+      "name": "Poking at APIs",
+    },
+    {
       "name": "tabletop",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
