@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Andrew Rose",
+    "label": "Person",
+    "picture": "https://unnecessary.io/template/images/andrew.jpg",
+    "email": "andrew@unnecessary.io",
+    "phone": "925-207-1969",
+    "website": "https://unnecessary.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "94610",
+      "city": "Oakland",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "mcmarbles",
+        "url": "http://github.com/mcmarbles"
+      },
+      {
+        "network": "linkedin",
+        "username": "andrewrrose",
+        "url": "https://www.linkedin.com/in/andrewrrose/"
+      },
+      {
+        "network": "twitter",
+        "username": "andrewrose",
+        "url": "http://twitter.com/andrewrose"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "security and privacy"
+    },
+    {
+      "name": "web standards",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "12-factor app design",
+    },
+    {
+      "name": "tabletop",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "SecOps",
+      "level": "",
+      "keywords": [
+        "OSquery",
+        "Systems Hardening",
+        "Elasticsearch",
+        "Logstash",
+        "Kibana"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Getting There",
+      "keywords": [
+        "ECR",
+        "EC2",
+        "Kinesis",
+        "S3"
+      ]
+    },
+    {
+      "name": "Cool Stuff",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Bash",
+        "Git",
+        "Docker",
+        "Rancher"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Zenefits (YourPeople, DBA)",
+      "position": "Senior Security Engineer",
+      "website": "https://zenefits.com",
+      "startDate": "2016-07-15",
+      "endDate": "Present",
+      "summary": "Incident detection and reponse",
+      "highlights": [
+        "Create and scale infrastructure to collect event data from disparate sources",
+        "Monitor incoming data to alert on significant secuirty events",
+        "Generate and apply formal incident response procedures",
+        "Analyze data to determine future improvements to detection and response capabilities",
+        "Affect change in systems and processes to meet compliance/regulatory goals"
+      ]
+    },
+    {
+      "company": "Zenefits",
+      "position": "Senior Systems/Automation Engineer",
+      "website": "https://zenefits.com",
+      "startDate": "2015-03-23",
+      "endDate": "2016-07-15",
+      "summary": "Finding things that suck, and fixing them",
+      "highlights": [
+        "Automate employee onboarding processes",
+        "Systems administration and hardening",
+        "Improve interactions between systems that don't offer native interoperability"
+      ]
+    },
+    {
+      "company": "Bill.com",
+      "position": "IT Systems Administrator",
+      "website": "https://bill.com",
+      "startDate": "2013-04-01",
+      "endDate": "2015-03-23",
+      "summary": "Wearer of many hats in financial services IT",
+      "highlights": [
+        "Primary JIRA adminstrator",
+        "Mac and Windows security enforcement and patch management",
+        "Systems administration for GSuite, VMWare, AD, "
+      ]
+    }
+  ]
+}
