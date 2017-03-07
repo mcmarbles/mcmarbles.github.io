@@ -92,10 +92,10 @@
       "website": "https://zenefits.com",
       "startDate": "2016-07-15",
       "endDate": "Present",
-      "summary": "Incident detection and reponse",
+      "summary": "Incident detection and response",
       "highlights": [
         "Create and scale infrastructure to collect event data from disparate sources",
-        "Monitor incoming data to alert on significant secuirty events",
+        "Monitor incoming data to alert on significant security events",
         "Generate and apply formal incident response procedures",
         "Analyze data to determine future improvements to detection and response capabilities",
         "Affect change in systems and processes to meet compliance/regulatory goals"
