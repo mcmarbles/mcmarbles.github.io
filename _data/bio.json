@@ -4,12 +4,12 @@
     "label": "Person",
     "picture": "https://unnecessary.io/images/andrew.jpg",
     "email": "andrew@unnecessary.io",
-    "phone": "925-207-1969",
+    "phone": "",
     "website": "https://unnecessary.io",
-    "summary": "*Ops for the things that matter.",
+    "summary": "I tinker.",
     "location": {
       "address": "",
-      "postalCode": "94610",
+      "postalCode": "",
       "city": "Oakland",
       "countryCode": "USA",
       "region": "California"
@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "andrewrrose",
         "url": "https://www.linkedin.com/in/andrewrrose/"
-      },
-      {
-        "network": "twitter",
-        "username": "andrewrose",
-        "url": "http://twitter.com/andrewrose"
       }
     ]
   },
@@ -45,7 +40,7 @@
       "name": "12-factor app design",
     },
     {
-      "name": "Poking at APIs",
+      "name": "poking at APIs",
     },
     {
       "name": "tabletop",
@@ -53,14 +48,13 @@
   ],
   "skills": [
     {
-      "name": "SecOps",
+      "name": "Infrastructure Security",
       "level": "",
       "keywords": [
         "OSquery",
-        "Systems Hardening",
-        "Elasticsearch",
-        "Logstash",
-        "Kibana"
+        "systems hardening",
+        "Elastic stack",
+        "Containerization"
       ]
     },
     {
@@ -74,7 +68,7 @@
       ]
     },
     {
-      "name": "Cool Stuff",
+      "name": "Toolset",
       "level": "",
       "keywords": [
         "Python",
@@ -92,7 +86,7 @@
       "website": "https://zenefits.com",
       "startDate": "2016-07-15",
       "endDate": "Present",
-      "summary": "Incident detection and response",
+      "summary": "Protecting customer data from the ground up",
       "highlights": [
         "Create and scale infrastructure to collect event data from disparate sources",
         "Monitor incoming data to alert on significant security events",
@@ -109,9 +103,11 @@
       "endDate": "2016-07-15",
       "summary": "Finding things that suck, and fixing them",
       "highlights": [
-        "Automate employee onboarding processes",
+        "Automate employee onboarding IT processes",
         "Systems administration and hardening",
-        "Improve interactions between systems that don't offer native interoperability"
+        "Improve interactions between systems that don't offer native interoperability",
+        "Implementation of endpoint security standards",
+        "Mac administration, packaging, tooling"
       ]
     },
     {
